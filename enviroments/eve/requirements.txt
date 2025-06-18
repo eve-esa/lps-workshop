@@ -1,0 +1,18 @@
+# Common
+numpy==1.26.4
+
+# EVE
+langchain_community
+pypdf
+sentence-transformers
+faiss-cpu
+langchain_huggingface
+langchain_runpod
+qdrant_client
+langchain_aws
+datasets
+transformers
+evaluate
+bert_score
+rouge_score
+nltk
