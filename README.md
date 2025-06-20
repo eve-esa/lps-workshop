@@ -25,6 +25,9 @@ The repository contains a notebook that can be ran in the provided environment a
 8. If a space is already running, click on "open". This should open a new tab with the jupyterlab environment.
 ![Open](/images/workshop-jypyterlab-app-list.png)
 ![Jupyterlab Environment](/images/jupyter_space.png)
+9. Select EVE as a kernel for the notebook:
+![Kernel](/images/eve_kernel.png)
+
 
 
 # Colab fallback
@@ -51,5 +54,5 @@ EVE will host a pilot session in **September** where you'll have the opportunity
 
 ![PILOT QR](images/pilot_qr.png)
 
-# Acknwoledgements
+# Acknowledgements
 Many thanks to Iksha from the [NASA-IMPACT](https://github.com/NASA-IMPACT) team for the support and guidance during the infrastructure setup.
