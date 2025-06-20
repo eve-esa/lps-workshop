@@ -39,10 +39,15 @@ If you're unable to follow the session using the provided environment, you can f
 ![Install libraries](images/install_libraries.png)
 4. Create another cell and run the [code](https://docs.google.com/document/d/1DPKWhcv-PcLUVyvsKr8kM_tQG2cx0rdAr96jHSu4p6k/edit?usp=sharing) to initialize the enviroment variables
 
+# Live demo
+Try out our [first version](https://huggingface.co/spaces/eve-esa/esa-nasa-workshop) of the system on Hugging Face. You'll find a working demo where you can explore some of the features already implemented and interact with a small knowledge base of documents.
+
+![EVE front](images/eve_front.png)
+
 # Pilot program
 EVE will host a pilot session in **September** where you'll have the opportunity to preview the entire system, explore its features, and evaluate how it could support your work as a researcher, student, or professional in the Earth Observation (EO) field. Your feedback will be essential in guiding the final stages of development and ensuring the system meets the real needs of the community.
 
-Help us developing EVE! Register at the following link:
+**Help us developing EVE!** Register at the following link:
 
 ![PILOT QR](images/pilot_qr.png)
 
