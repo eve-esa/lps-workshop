@@ -43,7 +43,7 @@ If you're unable to follow the session using the provided environment, you can f
 4. Create another cell and run the [code](https://docs.google.com/document/d/1DPKWhcv-PcLUVyvsKr8kM_tQG2cx0rdAr96jHSu4p6k/edit?usp=sharing) to initialize the enviroment variables
 
 # Live demo
-Try out our [first version](https://huggingface.co/spaces/eve-esa/esa-nasa-workshop) of the system on Hugging Face. You'll find a working demo where you can explore some of the features already implemented and interact with a small knowledge base of documents.
+Try out our [first version](https://huggingface.co/spaces/eve-esa/eve-demo) of the system on Hugging Face. You'll find a working demo where you can explore some of the features already implemented and interact with a small knowledge base of documents.
 
 ![EVE front](images/eve_front.png)
 
