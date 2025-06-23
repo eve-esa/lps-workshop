@@ -42,14 +42,6 @@ If you're unable to follow the session using the provided environment, you can f
 ![Install libraries](images/install_libraries.png)
 4. Create another cell and run the [code](https://docs.google.com/document/d/1DPKWhcv-PcLUVyvsKr8kM_tQG2cx0rdAr96jHSu4p6k/edit?usp=sharing) to initialize the enviroment variables
 
-QDRANT_URL=https://e186510c-4dd9-45c7-99a5-ae38c4c8bc36.us-east-1-0.aws.cloud.qdrant.io:6333'
-
-QDRANT_API_KEY=KR9zxIEUpNY7YSLUI_rPXHsaehHzXvTRb5EYQtY_NbQVIGGXL6Y5cA
-
-RUNPOD_ENDPOINT_ID=gt96iviaoxovi0
-
-RUNPOD_API_KEY=rpa_S5VZXSBIO1TN3LP8W574LULB72669VQQH7UA6MG11jp4t9%
-
 # Live demo
 Try out our [first version](https://huggingface.co/spaces/eve-esa/eve-demo) of the system on Hugging Face. You'll find a working demo where you can explore some of the features already implemented and interact with a small knowledge base of documents.
 
